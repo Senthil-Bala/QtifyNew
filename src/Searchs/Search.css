@@ -1,6 +1,6 @@
 .searchbar{
     width: 568px;
-height: 42px;
+height: 46px;
 border-top-left-radius: 0.5rem;
 border-bottom-left-radius: 0.5rem;
 padding-left: 0.5rem;
@@ -8,7 +8,7 @@ padding-left: 0.5rem;
 .searchBtn{
     /* width: 568px; */
     width: 3rem;
-    height: 47px;
+    height: 46px;
     border-bottom-right-radius: 0.5rem;
     border-top-right-radius: 0.5rem;
     background-color: white;

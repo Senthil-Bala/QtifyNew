@@ -1,5 +1,5 @@
 import React from 'react'
-import Icon from "../Icons/Icon"
+import Icon from "../QtifyLogo/Logo"
 import Search from '../Searchs/Search';
 import Feedback from '../Feedback/Feedback';
 import "./Navbar.css"

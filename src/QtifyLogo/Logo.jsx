@@ -1,7 +1,7 @@
 import React from 'react'
 import logo from "./logo.png";
-import "./Icon.css"
-function Icon() {
+import "./Logo.css"
+function Logo() {
   return (
     <div>
         <img src={logo} alt="Qtify" className='qtify' />
@@ -9,4 +9,4 @@ function Icon() {
   )
 }
 
-export default Icon
+export default Logo
